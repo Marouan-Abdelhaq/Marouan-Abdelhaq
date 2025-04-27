@@ -27,5 +27,5 @@ Je suis étudiant à [1337](https://1337.ma/), passionné par le développement 
 
 ## Me suivre
 - [GitHub](https://github.com/Marouan-Abdelhaq)
-- [LinkedIn]([https://linkedin.com/in/abdelhaq-marouan](https://www.linkedin.com/in/marouan-abdelhaq-745529217))
-- [Twitter/X]([[https://x.com/mabdelha](https://x.com/AbdelhaqMa1324)](https://x.com/i/flow/login?redirect_after_login=%2FAbdelhaqMa1324))
+- [LinkedIn](https://www.linkedin.com/in/marouan-abdelhaq-745529217/)
+- [Twitter/X](https://x.com/AbdelhaqMa1324)
